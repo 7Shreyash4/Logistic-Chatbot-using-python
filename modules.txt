@@ -1,0 +1,32 @@
+﻿Your orders of this month are:
+1-Sports Bottle
+2-Blue Shirt
+3-Denim jeans
+4-iphone 11
+5-Himalaya Face wash
+6-Dove shampoo
+7-Dettol Handwash
+8-Adaptor
+9-Data cable
+10-Pen Drive
+11-JBL Earphones.
+
+Your Order of Power Bank will be delivered tommorow.
+
+If you want to cancel your order, enter your order_id .
+
+Your Order_ID 8478 will be canceled and money will be transected back in your account back within 5 Working days.
+
+If you want to return any item please enter your P_id(*order will be eligible for return only Within 10 days of deliverey*).
+ 
+Your Order of power bank with P_id 7878 will be returned and within 2 days,Our agent will come to take it from the delivered address and you will get your money back into your account within 5 Working days,We are sorry for the inconvinence.
+
+Your Order of Blue Shirt with P_id 6696 will be returned and within 2 days,Our agent will come to take it from the delivered address and you will get your money back into your account within 5 Working days,We are sorry for the inconvinence.
+
+Your remaining warranty period for G-shock watch is 1 year 3 months.
+
+Your remaining warranty period for MOTO G5S plus is 6 months.
+
+Your remaining warranty period for LED bulb is 7 months.
+
+Your remaining warranty period for DASH adaptor is 3 months.
